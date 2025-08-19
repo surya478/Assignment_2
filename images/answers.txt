@@ -1,0 +1,27 @@
+1. What is the Shortcut Emmet Used to Create Boilerplate of HTML?
+ANS:Emmet Shortcut: ! + Tab (or Enter), html5
+
+2. What is DOCTYPE in HTML?
+ANS: <!DOCTYPE html> is a declaration that tells the browser which version of HTML the document is using
+
+3.What is a Void Element and Example for Void Elements?
+ANS: A void element is an HTML element that does not have a closing tag and cannot have child content
+Examples of Void Elements:
+<img>
+<br>
+<hr>
+<input>
+<meta>
+<link>
+
+4. What is the Difference Between Element and Attribute?
+ANS: Element: Defines the structure/content and it has opening & closing tags, Attributes: it is used to modify the elements
+
+5. What is HTML Entities and Why is it Needed in HTML?
+ANS: HTML Entities are special codes used to display reserved or special characters in HTML
+
+6.What are Meta Tags and Why are They Used?
+ANS: Meta tags provide metadata about the HTML document like Set character encoding, Make site responsive, SEO and descriptions. They go inside <head>
+
+7. What is the Best Way to Add Images in a Website?
+ANS: Use the <img> tag with src and alt attributes
